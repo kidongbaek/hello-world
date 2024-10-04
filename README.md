@@ -1,3 +1,3 @@
 # hello-world
-GitHub 흐름 연습용1
-GitHub 흐름 연습용2
+쿠버네티스는 어렵다 
+정말 그렇다
